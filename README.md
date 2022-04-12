@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaxu01
 - 👀 I’m interested in Front-End
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML, CSS, JS and React
 - 📫 How to reach me: jakubpiwtorak@gmail.com
 
 <!---
